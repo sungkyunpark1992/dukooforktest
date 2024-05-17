@@ -44,7 +44,6 @@ public class PageRequestDTO {
 
         if(link == null){
             /// xptmsmdkfjkldjkljfsljsklfjkslj
-            //kldjfkldjklfjkdjlkfd
             StringBuilder builder = new StringBuilder();
             builder.append("page="+this.page);
             builder.append("&size=" +this.size);
