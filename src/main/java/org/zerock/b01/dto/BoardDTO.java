@@ -31,3 +31,4 @@ public class BoardDTO {
     private LocalDateTime modDate;
 
 }
+// gitTEST~~~~!!!!
